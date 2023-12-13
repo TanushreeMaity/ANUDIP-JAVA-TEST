@@ -1,0 +1,9 @@
+Enter the size of arrayList
+5
+Enter the Array List Number
+12
+34
+45
+12
+56
+12 34 45 12 56
